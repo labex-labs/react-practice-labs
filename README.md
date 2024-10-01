@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                          | Difficulty   | Practice                                                                                                                  |
-|---------|-----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                         | Difficulty   | Practice                                                                                                                  |
+|---------|----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Create Reusable React Spinner              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-create-reusable-react-spinner-38353'>Start Lab</a>              |
 |      02 | 📖 Create React Email Link Component          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-create-react-email-link-component-38354'>Start Lab</a>          |
 |      03 | 📖 Uncontrolled Textarea Element              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-uncontrolled-textarea-element-38365'>Start Lab</a>              |
@@ -57,8 +57,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      28 | 📖 React useClickOutside Hook                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-react-useclickoutside-hook-38373'>Start Lab</a>                 |
 |      29 | 📖 Controlled Input Field                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-controlled-input-field-38345'>Start Lab</a>                     |
 |      30 | 📖 Lazy Loading Images in React               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-lazy-loading-images-in-react-38350'>Start Lab</a>               |
-|      31 | 📖 Textarea With Character Limit              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-textarea-with-character-limit-38351'>Start Lab</a>              |
-|      32 | 📖 Textarea With Word Limit                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-textarea-with-word-limit-38352'>Start Lab</a>                   |
+|      31 | 📖 Textarea with Character Limit              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-textarea-with-character-limit-38351'>Start Lab</a>              |
+|      32 | 📖 Textarea with Word Limit                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-textarea-with-word-limit-38352'>Start Lab</a>                   |
 |      33 | 📖 Creating Reusable Modal Component in React | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-creating-reusable-modal-component-in-react-38356'>Start Lab</a> |
 |      34 | 📖 React useAsync Hook                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-react-useasync-hook-38370'>Start Lab</a>                        |
 |      35 | 📖 React useComponentDidUpdate Hook           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-react-usecomponentdidupdate-hook-38375'>Start Lab</a>           |
@@ -91,8 +91,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      62 | 📖 Creating Customizable React Tooltips       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-creating-customizable-react-tooltips-38367'>Start Lab</a>       |
 |      63 | 📖 React useNavigatorOnLine Hook              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-react-usenavigatoronline-hook-38398'>Start Lab</a>              |
 |      64 | 📖 React useToggler Hook                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-react-usetoggler-hook-38413'>Start Lab</a>                      |
-|      65 | 📖 Stateful Checkbox With Multiple Selection  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-stateful-checkbox-with-multiple-selection-38357'>Start Lab</a>  |
-|      66 | 📖 Button With Ripple Effect                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-button-with-ripple-effect-38359'>Start Lab</a>                  |
+|      65 | 📖 Stateful Checkbox with Multiple Selection  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-stateful-checkbox-with-multiple-selection-38357'>Start Lab</a>  |
+|      66 | 📖 Button with Ripple Effect                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-button-with-ripple-effect-38359'>Start Lab</a>                  |
 |      67 | 📖 React useBodyScrollLock Hook               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-react-usebodyscrolllock-hook-38371'>Start Lab</a>               |
 |      68 | 📖 React useMutationObserver Hook             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-react-usemutationobserver-hook-38397'>Start Lab</a>             |
 |      69 | 📖 React useDelayedState Hook                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-react-usedelayedstate-hook-38380'>Start Lab</a>                 |
