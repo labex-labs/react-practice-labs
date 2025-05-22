@@ -1,6 +1,6 @@
 # React Practice Labs
 
-[![React Practice Labs](https://cover-creator.appbot.io/react-practice-labs.png)](https://labex.io/courses/react-practice-labs)
+[![React Practice Labs](https://cover-creator.labex.io/react-practice-labs.png)](https://labex.io/courses/react-practice-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/react-practice-labs)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,9 +25,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                         | Difficulty   | Practice                                                                                                                  |
-|---------|----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Create Reusable React Spinner              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-create-reusable-react-spinner-38353'>Start Lab</a>              |
+|   Index | Name                                          | Difficulty   | Practice                                                                                                                  |
+|---------|-----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Create Reusable React Spinner              | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/react-create-reusable-react-spinner-38353'>Start Lab</a>              |
 |      02 | 📖 Create React Email Link Component          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-create-react-email-link-component-38354'>Start Lab</a>          |
 |      03 | 📖 Uncontrolled Textarea Element              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-uncontrolled-textarea-element-38365'>Start Lab</a>              |
 |      04 | 📖 Uncontrolled Input Field                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-uncontrolled-input-field-38369'>Start Lab</a>                   |
