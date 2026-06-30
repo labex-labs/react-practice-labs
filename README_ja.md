@@ -2,114 +2,44 @@
 
 ## 言語
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![React 実践ラボ](https://cover-creator.labex.io/react-practice-labs.png?lang=ja)](https://labex.io/ja/courses/react-practice-labs)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/hQQaZ4DWe13G.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/react-practice-labs)
+ユーザーインターフェース構築に人気のライブラリである React を、初心者向けに設計されたこの体系的な学習パスで学びましょう。これらの包括的な React コースは、コンポーネント、状態管理、Hooks を習得するためのステップバイステップガイドを提供します。インタラクティブなフロントエンドプレイグラウンドで、動画なしの実践的なコーディング演習を完了することで、現代的でレスポンシブなウェブアプリケーションを構築するための実践的なスキルを身につけましょう。
 
-このコースには React のための多数のラボが含まれています。各ラボは詳細なガイダンスと解決策を備えた小さな React プロジェクトです。これらのラボを完了することで、React のスキルを練習し、コーディング能力を向上させ、クリーンで効率的なコードの書き方を学ぶことができます。
+LabEx の最大 20 個の React ハンズオンラボを一覧できます。各ラボはインタラクティブ環境で開き、実践しながら学べます。
 
-![React](https://img.shields.io/badge/React-whitesmoke?style=for-the-badge&logo=react)
+|   インデックス | 名前                                                                                                                                 | スキル        | 難易度   | 練習                                                                                                |
+|----------|------------------------------------------------------------------------------------------------------------------------------------|------------|-------|---------------------------------------------------------------------------------------------------|
+|       01 | [あなたの最初の React 実験](https://labex.io/ja/labs/react-your-first-react-lab-92968)                                                      | プロジェクトの構造  | 初級    | [ラボを開始](https://labex.io/ja/labs/react-your-first-react-lab-92968)                                |
+|       02 | [React を使ってピクセルアートアニメーターを作成する](https://labex.io/ja/labs/react-create-a-pixel-art-animator-with-react-445796)                       | コンポーネントの定義 | 初級    | [ラボを開始](https://labex.io/ja/labs/react-create-a-pixel-art-animator-with-react-445796)             |
+|       03 | [React State with Hooks](https://labex.io/ja/labs/react-react-state-with-hooks-601742)                                             | useState   | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-state-with-hooks-601742)                             |
+|       04 | [React Props](https://labex.io/ja/labs/react-react-props-601741)                                                                   | props      | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-props-601741)                                        |
+|       05 | [React のリストとキー](https://labex.io/ja/labs/react-react-lists-and-keys-601740)                                                        | リストのレンダリング | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-lists-and-keys-601740)                               |
+|       06 | [React JSX の基本](https://labex.io/ja/labs/react-react-jsx-basics-601739)                                                            | JSX        | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-jsx-basics-601739)                                   |
+|       07 | [React フォームの基本](https://labex.io/ja/labs/react-react-forms-basics-601738)                                                          | イベント       | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-forms-basics-601738)                                 |
+|       08 | [React イベントハンドリング](https://labex.io/ja/labs/react-react-event-handling-601737)                                                     | イベント       | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-event-handling-601737)                               |
+|       09 | [React 条件付きレンダリング](https://labex.io/ja/labs/react-react-conditional-rendering-601736)                                              | 条件付きレンダリング | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-conditional-rendering-601736)                        |
+|       10 | [React コンポーネント入門](https://labex.io/ja/labs/react-react-components-introduction-601735)                                             | JSX        | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-components-introduction-601735)                      |
+|       11 | [React セットアップと最初のアプリ](https://labex.io/ja/labs/react-react-setup-and-first-app-598881)                                             | JSX        | 初級    | [ラボを開始](https://labex.io/ja/labs/react-react-setup-and-first-app-598881)                          |
+|       12 | [React を使ってメモアプリを作成する](https://labex.io/ja/labs/javascript-create-a-notes-app-using-react-445794)                                  | useState   | 初級    | [ラボを開始](https://labex.io/ja/labs/javascript-create-a-notes-app-using-react-445794)                |
+|       13 | [React を使ったクリスマス願いリストアプリの作成](https://labex.io/ja/labs/react-building-christmas-wish-list-app-with-react-445792)                    | プロジェクトの構造  | 初級    | [ラボを開始](https://labex.io/ja/labs/react-building-christmas-wish-list-app-with-react-445792)        |
+|       14 | [React を使った GitHub のヒートマップコントリビューションの作成](https://labex.io/ja/labs/javascript-building-a-react-github-heatmap-contributions-445705) | プロジェクトの構造  | 初級    | [ラボを開始](https://labex.io/ja/labs/javascript-building-a-react-github-heatmap-contributions-445705) |
+|       15 | [React を使ったドラッグアンドドロップパズルゲームの作成](https://labex.io/ja/labs/javascript-building-a-react-drag-and-drop-puzzle-game-445703)            | プロジェクトの構造  | 初級    | [ラボを開始](https://labex.io/ja/labs/javascript-building-a-react-drag-and-drop-puzzle-game-445703)    |
+|       16 | [インタラクティブな React コンポーネントを構築する](https://labex.io/ja/labs/javascript-build-interactive-react-components-300146)                      | イベント       | 初級    | [ラボを開始](https://labex.io/ja/labs/javascript-build-interactive-react-components-300146)            |
+|       17 | [React でレスポンシブな名刺を作成する](https://labex.io/ja/labs/javascript-create-responsive-business-card-with-react-300144)                     | コンポーネントの定義 | 初級    | [ラボを開始](https://labex.io/ja/labs/javascript-create-responsive-business-card-with-react-300144)    |
+|       18 | [React ナビゲーション機能の実装](https://labex.io/ja/labs/javascript-implementing-react-navigation-features-300142)                            | JSX        | 初級    | [ラボを開始](https://labex.io/ja/labs/javascript-implementing-react-navigation-features-300142)        |
+|       19 | [React による色フィルタアプリケーション](https://labex.io/ja/labs/javascript-react-colour-filter-application-300140)                               | プロジェクトの構造  | 初級    | [ラボを開始](https://labex.io/ja/labs/javascript-react-colour-filter-application-300140)               |
+|       20 | [カスタム React Hook を使った応答型ナビゲーション](https://labex.io/ja/labs/javascript-responsive-navigation-with-custom-react-hook-300136)          | カスタムフック    | 初級    | [ラボを開始](https://labex.io/ja/labs/javascript-responsive-navigation-with-custom-react-hook-300136)  |
 
-
-## 演習
-
-|   インデックス | 名前                                                         | 難易度   | 練習                                                                                                                          |
-|----------------|--------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🟢 再利用可能な React スピナーを作成する                  | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-create-reusable-react-spinner-38353'>ラボを開始</a>              |
-|             02 | 📖 🟢 React でメールリンクコンポーネントを作成する           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-create-react-email-link-component-38354'>ラボを開始</a>          |
-|             03 | 📖 🟢 制御されていないテキストエリア要素                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-uncontrolled-textarea-element-38365'>ラボを開始</a>              |
-|             04 | 📖 🟢 制御されていない入力フィールド                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-uncontrolled-input-field-38369'>ラボを開始</a>                   |
-|             05 | 📖 🟢 制御されていない範囲入力                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-uncontrolled-range-input-38361'>ラボを開始</a>                   |
-|             06 | 📖 🟢 React の動的なリストコンポーネント                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-dynamic-react-list-component-38347'>ラボを開始</a>               |
-|             07 | 📖 🟢 プリミティブデータを使った React の動的テーブル        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-dynamic-react-table-with-primitive-data-38348'>ラボを開始</a>    |
-|             08 | 📖 🟢 オブジェクトテーブルビュー                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-object-table-view-38355'>ラボを開始</a>                          |
-|             09 | 📖 🟢 制御されていない <select> 要素                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-uncontrolled-select-element-38360'>ラボを開始</a>                |
-|             10 | 📖 🟢 自動的なテキストリンク                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-automatic-text-linking-38341'>ラボを開始</a>                     |
-|             11 | 📖 🟢 React の useComponentDidMount フック                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usecomponentdidmount-hook-38374'>ラボを開始</a>            |
-|             12 | 📖 🟢 React の useComponentWillUnmount フック                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usecomponentwillunmount-hook-38376'>ラボを開始</a>         |
-|             13 | 📖 🟢 React の useIsomporphicEffect フック                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useisomporphiceffect-hook-38391'>ラボを開始</a>            |
-|             14 | 📖 🟢 React の useOnGlobalEvent フック                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useonglobalevent-hook-38399'>ラボを開始</a>                |
-|             15 | 📖 🟢 React の useOnWindowResize フック                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useonwindowresize-hook-38400'>ラボを開始</a>               |
-|             16 | 📖 🟢 React の useUnload フック                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useunload-hook-38414'>ラボを開始</a>                       |
-|             17 | 📖 🟢 React の useOnWindowScroll フック                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useonwindowscroll-hook-38401'>ラボを開始</a>               |
-|             18 | 📖 🟢 React を使ったキャルーセルコンポーネントの作成         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-carousel-component-creation-38343'>ラボを開始</a>          |
-|             19 | 📖 🟢 React の useEventListener フック                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useeventlistener-hook-38383'>ラボを開始</a>                |
-|             20 | 📖 🟢 React の useFetch フック                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usefetch-hook-38384'>ラボを開始</a>                        |
-|             21 | 📖 🟢 React の useInterval フック                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useinterval-hook-38390'>ラボを開始</a>                     |
-|             22 | 📖 🟢 React の useMediaQuery フック                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usemediaquery-hook-38395'>ラボを開始</a>                   |
-|             23 | 📖 🟢 React の usePortal フック                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useportal-hook-38403'>ラボを開始</a>                       |
-|             24 | 📖 🟢 React useScript フック                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usescript-hook-38406'>ラボを開始</a>                       |
-|             25 | 📖 🟢 React の useTimeout フック                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usetimeout-hook-38411'>ラボを開始</a>                      |
-|             26 | 📖 🟢 React useWindowSize フック                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usewindowsize-hook-38416'>ラボを開始</a>                   |
-|             27 | 📖 🟢 React の useClickInside フック                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useclickinside-hook-38372'>ラボを開始</a>                  |
-|             28 | 📖 🟢 React の useClickOutside フック                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useclickoutside-hook-38373'>ラボを開始</a>                 |
-|             29 | 📖 🟢 コントロールされた入力フィールド                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-controlled-input-field-38345'>ラボを開始</a>                     |
-|             30 | 📖 🟢 React における画像の遅延読み込み                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-lazy-loading-images-in-react-38350'>ラボを開始</a>               |
-|             31 | 📖 🟢 文字数制限付きのテキストエリア                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-textarea-with-character-limit-38351'>ラボを開始</a>              |
-|             32 | 📖 🟢 単語制限付きのテキストエリア                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-textarea-with-word-limit-38352'>ラボを開始</a>                   |
-|             33 | 📖 🟢 React で再利用可能な Modal コンポーネントを作成する    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-creating-reusable-modal-component-in-react-38356'>ラボを開始</a> |
-|             34 | 📖 🟢 React の useAsync フック                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useasync-hook-38370'>ラボを開始</a>                        |
-|             35 | 📖 🟢 React の useComponentDidUpdate フック                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usecomponentdidupdate-hook-38375'>ラボを開始</a>           |
-|             36 | 📖 🟢 React の useCopyToClipboard フック                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usecopytoclipboard-hook-38377'>ラボを開始</a>              |
-|             37 | 📖 🟢 React の useDebounce フック                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usedebounce-hook-38378'>ラボを開始</a>                     |
-|             38 | 📖 🟢 React の useDefault フック                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usedefault-hook-38379'>ラボを開始</a>                      |
-|             39 | 📖 🟢 React の useEffectOnce フック                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useeffectonce-hook-38381'>ラボを開始</a>                   |
-|             40 | 📖 🟢 React の useError フック                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useerror-hook-38382'>ラボを開始</a>                        |
-|             41 | 📖 🟢 React useForm フック                                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useform-hook-38385'>ラボを開始</a>                         |
-|             42 | 📖 🟢 React の useGetSet フック                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usegetset-hook-38386'>ラボを開始</a>                       |
-|             43 | 📖 🟢 React の useHash フック                                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usehash-hook-38387'>ラボを開始</a>                         |
-|             44 | 📖 🟢 React の useLocalStorage フック                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-uselocalstorage-hook-38393'>ラボを開始</a>                 |
-|             45 | 📖 🟢 React の useMergeState フック                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usemergestate-hook-38396'>ラボを開始</a>                   |
-|             46 | 📖 🟢 React の usePersistedState フック                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usepersistedstate-hook-38402'>ラボを開始</a>               |
-|             47 | 📖 🟢 React の usePrevious フック                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useprevious-hook-38404'>ラボを開始</a>                     |
-|             48 | 📖 🟢 React の useRequestAnimationFrame フック               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-userequestanimationframe-hook-38405'>ラボを開始</a>        |
-|             49 | 📖 🟢 React の useSearchParam フック                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usesearchparam-hook-38407'>ラボを開始</a>                  |
-|             50 | 📖 🟢 React の useSessionStorage フック                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usesessionstorage-hook-38408'>ラボを開始</a>               |
-|             51 | 📖 🟢 React の useTitle フック                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usetitle-hook-38412'>ラボを開始</a>                        |
-|             52 | 📖 🟢 React の useUpdate フック                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useupdate-hook-38415'>ラボを開始</a>                       |
-|             53 | 📖 🟢 ファイルのドラッグアンドドロップエリア                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-file-drag-and-drop-area-38349'>ラボを開始</a>                    |
-|             54 | 📖 🟢 React の useHover フック                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usehover-hook-38388'>ラボを開始</a>                        |
-|             55 | 📖 🟢 React useKeyPress フック                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usekeypress-hook-38392'>ラボを開始</a>                     |
-|             56 | 📖 🟢 折りたたみ可能な React アコーディオンの構築            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-building-collapsible-react-accordion-38339'>ラボを開始</a>       |
-|             57 | 📖 🟢 閉じることができる React アラートを作成する            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-create-closable-react-alert-38340'>ラボを開始</a>                |
-|             58 | 📖 🟢 折りたたみ可能な React コンポーネントを作成する        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-create-collapsible-react-components-38344'>ラボを開始</a>        |
-|             59 | 📖 🟢 React でカウントダウンタイマーコンポーネントを作成する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-countdown-timer-component-38346'>ラボを開始</a>            |
-|             60 | 📖 🟢 React で星評価コンポーネントを作成する                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-create-star-rating-component-in-react-38362'>ラボを開始</a>      |
-|             61 | 📖 🟢 再利用可能な React のトグルコンポーネント              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-reusable-react-toggle-component-38366'>ラボを開始</a>            |
-|             62 | 📖 🟢 カスタマイズ可能な React ツールチップの作成            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-creating-customizable-react-tooltips-38367'>ラボを開始</a>       |
-|             63 | 📖 🟢 React の useNavigatorOnLine フック                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usenavigatoronline-hook-38398'>ラボを開始</a>              |
-|             64 | 📖 🟢 React の useToggler フック                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usetoggler-hook-38413'>ラボを開始</a>                      |
-|             65 | 📖 🟢 複数選択可能な状態保持チェックボックス                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-stateful-checkbox-with-multiple-selection-38357'>ラボを開始</a>  |
-|             66 | 📖 🟢 波紋エフェクト付きボタン                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-button-with-ripple-effect-38359'>ラボを開始</a>                  |
-|             67 | 📖 🟢 React の useBodyScrollLock フック                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usebodyscrolllock-hook-38371'>ラボを開始</a>               |
-|             68 | 📖 🟢 React の useMutationObserver フック                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usemutationobserver-hook-38397'>ラボを開始</a>             |
-|             69 | 📖 🟢 React の useDelayedState フック                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usedelayedstate-hook-38380'>ラボを開始</a>                 |
-|             70 | 📖 🟢 再利用可能な React Tabs コンポーネントの構築           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-building-reusable-react-tabs-component-38363'>ラボを開始</a>     |
-|             71 | 📖 🟢 拡張可能なオブジェクト ツリー ビュー                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-expandable-object-tree-view-38368'>ラボを開始</a>                |
-|             72 | 📖 🟢 React の useIntersectionObserver フック                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useintersectionobserver-hook-38389'>ラボを開始</a>         |
-|             73 | 📖 🟢 React の useMap フック                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usemap-hook-38394'>ラボを開始</a>                          |
-|             74 | 📖 🟢 React の useSet フック                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-useset-hook-38409'>ラボを開始</a>                          |
-|             75 | 📖 🟢 React useSSR フック                                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-usessr-hook-38410'>ラボを開始</a>                          |
-
-## 環境
-
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ。
-- ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
-- スキルツリーベースのシステムによる構造化されたコンテンツ組織。
-- 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
-
-詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+[すべてのラボを見る](https://labex.io/ja/learn/react).
 
 ## その他
 
-- 🔗 [React プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React 無料チュートリアル](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [LabEx で React について詳しく見る](https://labex.io/ja/learn/react)
+- 🔗 [さらにプログラミングプロジェクトを見る](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [プログラミングコースを見る](https://github.com/labex-labs/awesome-programming-courses)
 
